@@ -1,6 +1,7 @@
 import java.util.HashSet;
 import java.util.Objects;
 import java.util.Scanner;
+import java.util.Random;
 
 public class Bonus {
 
